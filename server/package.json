@@ -1,0 +1,12 @@
+{
+  "name": "socket-io-starter-server",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "server": "node server"
+  },
+  "dependencies": {
+    "express": "4.17.2",
+    "socket.io": "4.4.1"
+  }
+}
